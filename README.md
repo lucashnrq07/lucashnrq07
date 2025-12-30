@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Lucas Henrique, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia de Software e Técnico em Informática. 
+Me chamo Lucas Henrique, tenho 18 anos e sou natural de São Paulo. Sou desenvolvedor Java e atualmente estou cursando Engenharia de Software. 
 
 ---
 
